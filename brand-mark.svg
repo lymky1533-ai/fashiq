@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="مجمع الفاشق لخدمات السيارات">
+  <rect width="256" height="256" rx="56" fill="#112b37"/>
+  <path d="M48 143a80 80 0 1 1 160 0" fill="none" stroke="#168f80" stroke-width="20" stroke-linecap="round"/>
+  <path d="M128 129l42-39" fill="none" stroke="#f5fbf9" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="128" cy="129" r="13" fill="#f5fbf9"/>
+  <path d="M63 177h130" fill="none" stroke="#6ec3b2" stroke-width="12" stroke-linecap="round"/>
+</svg>
